@@ -55,7 +55,9 @@ header.site-title{
 .navbar-nav{
     padding: 0.8em 0em;
 }
-
+.navbar div li {
+    display: inline;
+}
 .navbar-nav .nav-link{
     font-size: 0.9em;
     color: darkslategrey!important;
